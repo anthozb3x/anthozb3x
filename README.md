@@ -1,8 +1,8 @@
 # 👋 Salut, moi c’est Anthony ! (alias anthozb3x)
 
-🎯 Développeur fullstack passionné | Alternant Bac+5 à l'IPI | Créateur de Vintzen & Savvy  
-📍 Basé en France | Actuellement chez **Piwio**  
-💻 Backend ⟶ Python (Django, Supabase), Go  
+🎯 Développeur fullstack passionné Créateur de Vintzen & Savvy  
+📍 Basé en France
+💻 Backend ⟶ Python, TypeScript, Supabase, Go  
 🎨 Frontend ⟶ React, Flutter, Tailwind  
 🔧 DevOps ⟶ Docker, Caddy, Linux (Debian), IPv6 Proxies  
 🧠 IA / ML ⟶ GPT, HuggingFace, Mistral, Ollama
