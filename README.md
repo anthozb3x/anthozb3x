@@ -6,7 +6,7 @@
 💻 Backend ⟶ Python, TypeScript, Supabase, Go  
 🎨 Frontend ⟶ React, Flutter, Tailwind  
 🔧 DevOps ⟶ Docker, Caddy, Linux (Debian), IPv6 Proxies  
-🧠 IA / ML ⟶ GPT, HuggingFace, Mistral, Ollama
+🧠 IA / ML ⟶ langrahp
 
 ---
 
