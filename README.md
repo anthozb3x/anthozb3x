@@ -4,7 +4,7 @@
 📍 Basé en France
 
 💻 Backend ⟶ Python, TypeScript, Supabase, Go  
-🎨 Frontend ⟶ React, Flutter, Tailwind  
+🎨 Frontend ⟶ NextJS, React, Flutter, Tailwind  
 🔧 DevOps ⟶ Docker, Caddy, Linux (Debian), IPv6 Proxies  
 🧠 IA / ML ⟶ langrahp
 
