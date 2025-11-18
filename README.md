@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Anthony ! (alias anthozb3x)
 
-🎯 Développeur fullstack passionné Créateur de Vintzen & Savvy  
+🎯 Développeur fullstack passionné
 📍 Basé en France
 
 💻 Backend ⟶ Python, TypeScript, Supabase, Go  
