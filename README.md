@@ -12,17 +12,12 @@
 
 ## 🚀 Mes projets phares
 
-### 🧠 [Savvy]()
-> App mobile de coaching financier ludique & intelligente 💸  
-> ➤ Flutter + Hono + GPT  
-> ➤ Catégorisation auto, défis gamifiés, suivi de budget, routine IA
-
-### 🤖 [Vintzen](https://vintzen.fr)
+### 🤖 [Vintzen]
 > SaaS pour revendeurs Vinted : revente optimisée & automatisée  
 > ➤ Django + React + Scrapper + WebSocket Bot  
 > ➤ Estimation de prix, réponses automatiques, statistiques intelligentes
 >
-### 🎬 [YouTube Summarizer]()
+### 🎬 [YouTube Summarizer]
 > Application web moderne pour transcrire et résumer automatiquement vos vidéos YouTube avec l'IA       
 > ➤ Next.js 14 + TypeScript + OpenAI Whisper/GPT  
 > ➤ Transcription audio, résumés intelligents, support multi-langues, interface moderne avec shadcn/ui
