@@ -2,10 +2,10 @@
 
 🎯 Développeur fullstack passionné<br>
 📍 Basé en France<br>
-💻 Backend ⟶ TypeScript, Next.js, Supabase<br>
+💻 Backend ⟶ TypeScript, Node.js, Supabase<br>
 🎨 Frontend ⟶ Next.js, React, Flutter, Tailwind<br>
 🔧 DevOps ⟶ Docker, Caddy, Linux (Debian)<br>
-🧠 IA / ML ⟶ LangGraph, OpenAI
+🧠 IA / ML ⟶ LangChain, LangGraph
 
 ---
 
@@ -15,6 +15,11 @@
 > SaaS de home staging virtuel par IA générative, pensé pour les agences immobilières<br>
 > ➤ Next.js · TypeScript (back & front) · Supabase<br>
 > ➤ Transformation d'images, génération de styles d'aménagement, dashboard agence
+
+### 👛 Radinou *(en cours)*
+> App mobile de budget gamifiée, avec une mascotte porte-monnaie un peu radine qui commente tes dépenses<br>
+> ➤ Flutter · NestJS · Better Auth · PostgreSQL · Next.js (landing)<br>
+> ➤ Banque connectée en lecture seule, quêtes, séries, coffre hebdo, récap mensuel
 
 ### 🎬 YouTube Summarizer
 > Application web pour transcrire et résumer automatiquement des vidéos YouTube avec l'IA<br>
@@ -26,11 +31,11 @@
 ## 🛠️ Stack & Outils
 
 ```txt
-Langages   → TypeScript · Dart
-Backend    → Supabase · REST API · WebSocket
+Langages   → TypeScript · Dart · Python
+Backend    → Node.js · Supabase · REST API · WebSocket · Django · PostgreSQL
 Frontend   → Next.js · React · Flutter · Tailwind CSS
-IA / ML    → OpenAI (GPT / Whisper) · LangGraph
-Outils     → Docker · Caddy · PostgreSQL · Redis · Git · Debian
+IA / ML    → LangChain · LangGraph
+Outils     → Docker · Caddy · Git · Debian
 ```
 
 ---
