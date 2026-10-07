@@ -16,7 +16,7 @@
 > ➤ Next.js · TypeScript (back & front) · Supabase<br>
 > ➤ Transformation d'images, génération de styles d'aménagement, dashboard agence
 
-### 👛 Radinou *(en cours)*
+### 👛 [Radinou](https://radinou.app)
 > App mobile de budget gamifiée, avec une mascotte porte-monnaie un peu radine qui commente tes dépenses<br>
 > ➤ Flutter · NestJS · Better Auth · PostgreSQL · Next.js (landing)<br>
 > ➤ Banque connectée en lecture seule, quêtes, séries, coffre hebdo, récap mensuel
